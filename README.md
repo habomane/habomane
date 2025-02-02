@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 >Hi, I'm Habso</h1>
+<h4>A passionate software engineer</h4>
+ When I'm not coding, you can find me writing children's books and drinking tea!
 
-<!--
-**habomane/habomane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="left">Let's Connect!</h5>
+<p align="left">
+<a href="https://linkedin.com/in/habso-mane" target="blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="[tiara-dillard]" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h5 align="left">Languages and Tools:</h5>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,java,ts,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,d3,express,webpack,figma,ps&theme=light" />
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
